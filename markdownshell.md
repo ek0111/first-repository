@@ -1,56 +1,24 @@
-# 제목
-1. 첫번째
-2. 두번째
-3. 세번째
+🔑 **PRT(Peer Review Template)**
 
-- 빨강
-  - 녹색
-    - 파랑
-    
----
-[구글](https://google.com)
-*양쪽*
-_양쪽_
-~양쪽~
+- [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요? (완성도)**
+    - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
+    - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 
+    퀘스트 문제 요구조건 등을 지칭
+        - 해당 조건을 만족하는 부분의 코드 및 결과물을 캡쳐하여 사진으로 첨부
 
+- [ ]  **2. 프로젝트에서 핵심적인 부분에 대한 설명이 주석(닥스트링) 및 마크다운 형태로 잘 기록되어있나요? (설명)**
+    - [ ]  모델 선정 이유
+    - [ ]  Metrics 선정 이유
+    - [ ]  Loss 선정 이유
 
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
-~~cancelline~~
+- [ ]  **3. 체크리스트에 해당하는 항목들을 모두 수행하였나요? (문제 해결)**
+    - [ ]  데이터를 분할하여 프로젝트를 진행했나요? (train, validation, test 데이터로 구분)
+    - [ ]  하이퍼파라미터를 변경해가며 여러 시도를 했나요? (learning rate, dropout rate, unit, batch size, epoch 등)
+    - [ ]  각 실험을 시각화하여 비교하였나요?
+    - [ ]  모든 실험 결과가 기록되었나요?
 
-```
-print("hello Markdown")
-```
-
-
-* 줄바꿈을 하기 위해서는 문장 마지막에서 2칸 이상을 띄어쓰기해야 한다. 
-이렇게
-
-* 줄 바꿈을 하기 위해서는 문장 마지막에서 2칸 이상을 띄어쓰기해야 한다.__  # 띄어쓰기
-이렇게
-
-이미지는 이미지가 있는 경로를 잘 입력
-![Alt text](path/to/img.png)
-
-
-<img src="/path/to/img.jpg" width="450px" height="300px"></img>
-
-
-
-* [마크다운 공식 사이트](https://daringfireball.net/projects/markdown/)
-* [GitHub](https://github.com/)
-* [아이펠](https://aiffel.io/)
-
-
-
-init: git 하위 디렉토리 생성
-status: 파일 상태 확인
-add: 커밋에 파일의 변경 사항을 한번에 저장.
-commit: 커밋 생성
-push:: 변경사항 원격 서버에 업로드
-clone: 기존 소스 코드 다운로드/복제
-pull: 원격 저장소의 변경 내용이 현재 디렉토리에 가져와지고(fetch) 병합(merge)됨
-
-
+- [ ]  **4. 프로젝트에 대한 회고가 상세히 기록 되어 있나요? (회고, 정리)**
+    - [ ]  배운 점
+    - [ ]  아쉬운 점
+    - [ ]  느낀 점
+    - [ ]  어려웠던 점
