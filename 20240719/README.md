@@ -1,4 +1,4 @@
-<img width="900" alt="스크린샷 2024-07-19 오후 6 01 37" src="https://github.com/user-attachments/assets/df35c624-bb24-4889-955a-b8049d61b92d">🔑 **PRT(Peer Review Template)**
+🔑 **PRT(Peer Review Template)**
 
 - [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요? (완성도)**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
